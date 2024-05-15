@@ -1,0 +1,3 @@
+Namenode
+Datanode-1
+
