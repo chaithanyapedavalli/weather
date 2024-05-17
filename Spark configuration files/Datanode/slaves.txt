@@ -18,4 +18,4 @@
 # A Spark Worker will be started on each of the machines listed below.
 Namenode
 Datanode-1
-Datanode-2
+
